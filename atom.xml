@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-03-06T13:11:29.989Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>转转 宝贝</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2024/03/06/DAY2/"/>
+    <id>http://example.com/2024/03/06/DAY2/</id>
+    <published>2024-03-06T13:10:00.746Z</published>
+    <updated>2024-03-06T13:11:29.989Z</updated>
+    
+    <content type="html"><![CDATA[<p>DAY 2</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;DAY 2&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2024/03/06/zhuanzhuan/"/>
+    <id>http://example.com/2024/03/06/zhuanzhuan/</id>
+    <published>2024-03-06T11:00:15.120Z</published>
+    <updated>2024-03-06T12:37:22.993Z</updated>
+    
+    <content type="html"><![CDATA[<p>DAY 1</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;DAY 1&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
